@@ -66,6 +66,7 @@ Plataforma gratuita para visualizar, corregir y trabajar con archivos YAML.
 ---
 
 ## 📬 Contacto
+📌 **Web Personal**: [IPalSeb.com](https://ipalseb.com/)  
 📌 **LinkedIn**: [Conéctate conmigo](https://www.linkedin.com/in/ipalseb)  
 📌 **Twitter**: [Envíame un mensaje](https://twitter.com/ipalseb)  
 📌 **Email**: [israelps@protonmail.com](mailto:israelps@protonmail.com)  
