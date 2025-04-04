@@ -1,74 +1,74 @@
-# Hola, soy Israel 👋
+<h1 align="center">👋 Hola, soy Israel Palma</h1>
 
-## 🚀 Gestor de proyectos tecnológicos | CTO 
-
-Soy **Israel Palma Sebastià**, apasionado por la tecnología, la innovación y el emprendimiento. Con experiencia en la gestión de proyectos tecnológicos, lidero equipos para desarrollar soluciones efectivas y escalables. Me motiva transformar ideas en resultados concretos, explorando nuevas oportunidades en negocios digitales y tecnología.
-
----
-
-## 💼 Experiencia Profesional
-
-### **BlabMoney** | *Chief Technology Officer* *(Julio 2024 - Actualidad)*
-- Lidero el desarrollo del producto SaaS para gestores financieros.
-- Implementación de IA para optimización de la administración de activos.
-- Infraestructura basada en **Google Cloud**, backend en **Golang** y orquestación con **Kubernetes**.
-
-### **Gyrus** | *Product Owner - Generative AI Projects* *(Septiembre 2023 - Julio 2024)*
-- Gestión de proyectos de **IA Generativa** con **Azure** y **OpenAI**.
-- Desarrollo de **ETLs para utilities**, utilizando **Python, AWS e Informatica Powercenter**.
-- Coordinación de equipos multidisciplinarios en soluciones estratégicas de IA.
-
-### **Global Alumni** | *Head of Full Stack Software Development* *(Septiembre 2021 - Septiembre 2023)*
-- Liderazgo en el desarrollo de aplicaciones web y pasarela de pagos con **React y Node.js**.
-- Implementación de automatizaciones de datos en el sector educativo (**AWS, Python**).
-- Optimización de infraestructura y procesos en la nube.
+<p align="center">
+  CTO en Blabmoney · Full Stack Developer · Freelance especializado en MVPs, SaaS y automatización
+</p>
 
 ---
 
-## 🎓 Educación
+## 🧠 Sobre mí
 
-- **Universidad Carlos III de Madrid** - *MiFID II en asesoramiento en materia de inversión* (2024)
-- **Scrum.org** - *Professional Scrum Product Owner (PSPO I)* (2023)
-- **MIT Professional Education** - *Machine Learning & Liderazgo en la Innovación* (2023)
-- **Esade** - *Dirección de Proyectos Complejos* (2022)
-- **Universidad Europea** - *Máster en Big Data* (2021-2022)
-- **UNED** - *Grado en Ingeniería Informática* (2017-2021)
-
----
-
-## 🛠️ Habilidades
-
-### **Lenguajes & Tecnologías**
-- Python | Node.js | Golang | TypeScript | SQL
-- React | Flask | PostgreSQL | MongoDB | DynamoDB
-- Docker | Kubernetes | Terraform | GraphQL | GitHub Actions
-- Cloud: **Azure | GCP | AWS**
-
-### **Metodologías & Gestión**
-- **Project Management | Agile | Scrum**
-- **Jira | Confluence**
-- **Data Engineering | Generative AI**
+💼 CTO en [Blabmoney](https://blabmoney.com)  
+🛠️ Freelance construyendo soluciones digitales a medida  
+🚀 Experiencia en desarrollo de MVPs, plataformas SaaS y automatizaciones  
+🎯 Enfoque transversal: técnico, estratégico y de producto  
+🧩 Transformo ideas en soluciones reales, útiles y escalables
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🛠️ Tecnologías que uso
 
-### **[Surarquía](https://surarquia.com)** *(2024)*
-E-commerce desarrollado en **Shopify**, optimizado para SEO y con diseño responsivo.
+### Lenguajes
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-🛍️ Shopify | E-commerce | SEO | Website
+### Frameworks & Librerías
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-### **[YAMLTools.DEV](https://yamltools.dev)** *(2024)*
-Plataforma gratuita para visualizar, corregir y trabajar con archivos YAML.
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-🖥️ Next.js | TypeScript | Tailwind CSS | Website
+### Bases de datos
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 🚀 Proyectos personales
+
+### 🔧 [YAMLTools.dev](https://yamltools.dev)
+Herramienta online para visualizar, validar y transformar archivos YAML. Ideal para desarrolladores y equipos DevOps.
+
+### 🍽️ [Click2Eat.app](https://click2eat.app)
+Plataforma para crear webs de restaurantes con menús digitales, reservas y gestión fácil. SaaS en desarrollo.
+
+### 🔗 [ForoEthereum.com](https://foroethereum.com)
+Portal de información sobre Ethereum. Ofrece precio en tiempo real, noticias y secciones en desarrollo.
 
 ---
 
 ## 📬 Contacto
-📌 **Web Personal**: [IPalSeb.com](https://ipalseb.com/)  
-📌 **LinkedIn**: [Conéctate conmigo](https://www.linkedin.com/in/ipalseb)  
-📌 **Twitter**: [Envíame un mensaje](https://twitter.com/ipalseb)  
-📌 **Email**: [israelps@protonmail.com](mailto:israelps@protonmail.com)  
 
-🔹 **Explora mi trabajo en GitHub** *(Muchos repositorios son privados, pero estaré encantado de hablar sobre mis proyectos y experiencias).*
+📧 Email: [israelps@protonmail.com](mailto:israelps@protonmail.com)  
+💼 LinkedIn: [linkedin.com/in/ipalseb](https://www.linkedin.com/in/ipalseb)  
+🐦 Twitter/X: [x.com/ipalseb](https://x.com/ipalseb)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ipalseb/ipalseb/main/github-metrics.svg" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  💻 Construyendo con código. Liderando con visión. Transformando ideas en resultados.
+</p>
