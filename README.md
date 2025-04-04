@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mí
 
-💼 CTO en [Blabmoney](https://blabmoney.com)  
+💼 CTO en [Blabmoney](https://blabmoney.com){:target="_blank"}  
 🛠️ Freelance construyendo soluciones digitales a medida  
 🚀 Experiencia en desarrollo de MVPs, plataformas SaaS y automatizaciones  
 🎯 Enfoque transversal: técnico, estratégico y de producto  
@@ -44,13 +44,13 @@
 
 ## 🚀 Proyectos personales
 
-### 🔧 [YAMLTools.dev](https://yamltools.dev)
+### 🔧 [YAMLTools.dev](https://yamltools.dev){:target="_blank"}
 Herramienta online para visualizar, validar y transformar archivos YAML. Ideal para desarrolladores y equipos DevOps.
 
-### 🍽️ [Click2Eat.app](https://click2eat.app)
+### 🍽️ [Click2Eat.app](https://click2eat.app){:target="_blank"}
 Plataforma para crear webs de restaurantes con menús digitales, reservas y gestión fácil. SaaS en desarrollo.
 
-### 🔗 [ForoEthereum.com](https://foroethereum.com)
+### 🔗 [ForoEthereum.com](https://foroethereum.com){:target="_blank"}
 Portal de información sobre Ethereum. Ofrece precio en tiempo real, noticias y secciones en desarrollo.
 
 ---
@@ -58,14 +58,8 @@ Portal de información sobre Ethereum. Ofrece precio en tiempo real, noticias y 
 ## 📬 Contacto
 
 📧 Email: [israelps@protonmail.com](mailto:israelps@protonmail.com)  
-💼 LinkedIn: [linkedin.com/in/ipalseb](https://www.linkedin.com/in/ipalseb)  
-🐦 Twitter/X: [x.com/ipalseb](https://x.com/ipalseb)
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ipalseb/ipalseb/main/github-metrics.svg" alt="GitHub Stats" />
-</p>
+💼 LinkedIn: [linkedin.com/in/ipalseb](https://www.linkedin.com/in/ipalseb){:target="_blank"}  
+🐦 Twitter/X: [x.com/ipalseb](https://x.com/ipalseb){:target="_blank"}
 
 ---
 
