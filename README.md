@@ -1,12 +1,12 @@
 <h1 align="center">Hola, soy Israel Palma</h1>
 
 <p align="center">
-  De CTO a emprendedor · Full Stack Developer · MVPs, IA y automatización
+  Antes CTO, hoy freelance. IA, desarrollo y emprendimiento — en público.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ipalseb">LinkedIn</a> ·
-  <a href="https://ipalseb.com">Web</a> ·
+  <a href="https://ipalseb.com/links">Todos mis enlaces</a> ·
+  <a href="https://ipalseb.com">Studio</a> ·
   <a href="https://crea.mba">CREA.MBA</a>
 </p>
 
@@ -14,41 +14,23 @@
 
 ## Sobre mí
 
-Después de ser CTO de una startup fintech, ahora emprendo y ayudo a otros a construir.
+Antes era CTO de una startup fintech. Hoy soy freelance y construyo lo mío en paralelo.
 
-- Creando [CREA.MBA](https://crea.mba) - Boilerplate Next.js AI-native
-- Freelance: webs, ecommerce, MVPs y automatizaciones con IA
-- Ex-CTO en Blabmoney (startup fintech)
+He pasado por desarrollo web, Big Data, lideré equipos en Global Alumni y fui CTO en Blabmoney. En diciembre de 2025 la startup se quedó sin dinero. Desde entonces vivo del freelance y dedico el rato que me queda a construir cosas mías.
 
----
+## Lo que hago hoy
 
-## Lo que he construido
+- **Freelance**: desarrollo web, MVPs y automatización con IA para clientes.
+- **Productos propios en paralelo**: [CREA.MBA](https://crea.mba), [YAMLTools](https://yamltools.dev), [Click2Eat](https://click2eat.app) y otros side projects.
+- **Servicios B2B**: [IPalSeb Studio](https://ipalseb.com).
 
-**Como empleado:**
-- Pasarelas de pago que procesaron millones de €
-- Chatbots con IA integrados en operaciones de cliente
-- Plataformas SaaS financieras completas
+## Aquí publico
 
-**Como freelance:**
-- Ecommerce de alto rendimiento
-- Plataformas de gestión para empresas
-- MVPs y automatizaciones con IA
+Lo que aprendo construyendo: tutoriales, decisiones, errores, datos reales.
 
----
-
-## Proyectos propios
-
-### [CREA.MBA](https://crea.mba)
-Boilerplate Next.js diseñado para que la IA (Claude Code, Cursor) funcione de verdad en proyectos reales. Auth, pagos, emails, i18n y sistema de instrucciones optimizado para IA. *En desarrollo.*
-
-### [YAMLTools.dev](https://yamltools.dev)
-Herramientas online para visualizar, validar y transformar archivos YAML.
-
-### [Click2Eat.app](https://click2eat.app)
-Plataforma para crear webs de restaurantes con menús digitales y reservas.
-
-### [ForoEthereum.com](https://foroethereum.com)
-Portal de información sobre Ethereum en español.
+- [LinkedIn](https://linkedin.com/in/ipalseb) — posts L/J 8:00
+- [YouTube](https://youtube.com/@ipalseb) — tutoriales y proyectos en público
+- [TikTok](https://tiktok.com/@ipalseb) — clips L/M/V
 
 ---
 
@@ -69,8 +51,8 @@ Portal de información sobre Ethereum en español.
 
 **IA**
 
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000?style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 **Cloud y DevOps**
@@ -90,12 +72,12 @@ Portal de información sobre Ethereum en español.
 
 ## Contacto
 
-- Email: [israelps@protonmail.com](mailto:israelps@protonmail.com)
-- LinkedIn: [linkedin.com/in/ipalseb](https://www.linkedin.com/in/ipalseb)
+- Email: [hola@ipalseb.com](mailto:hola@ipalseb.com)
+- LinkedIn: [linkedin.com/in/ipalseb](https://linkedin.com/in/ipalseb)
 - Web: [ipalseb.com](https://ipalseb.com)
 
 ---
 
 <p align="center">
-  Escribo sobre desarrollo con IA y lanzar productos digitales.
+  <a href="https://ipalseb.com/links">ipalseb.com/links</a>
 </p>
