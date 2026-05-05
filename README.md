@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Israel Palma</h1>
 
 <p align="center">
-  Antes CTO, hoy freelance. IA, desarrollo y emprendimiento — en público.
+  Antes CTO, hoy emprendedor. IA, desarrollo y emprendimiento — en público.
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## Sobre mí
 
-Antes era CTO de una startup fintech. Hoy soy freelance y construyo lo mío en paralelo.
+Antes era CTO de una startup fintech. Hoy soy emprendedor: vivo del freelance y construyo lo mío en paralelo.
 
 He pasado por desarrollo web, Big Data, lideré equipos en Global Alumni y fui CTO en Blabmoney. En diciembre de 2025 la startup se quedó sin dinero. Desde entonces vivo del freelance y dedico el rato que me queda a construir cosas mías.
 
