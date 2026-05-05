@@ -30,6 +30,7 @@ Lo que aprendo construyendo: tutoriales, decisiones, errores, datos reales.
 
 - [LinkedIn](https://linkedin.com/in/ipalseb) — posts L/J 8:00
 - [YouTube](https://youtube.com/@ipalseb) — tutoriales y proyectos en público
+- [X](https://x.com/ipalseb) — short takes y threads
 - [TikTok](https://tiktok.com/@ipalseb) — clips L/M/V
 
 ---
